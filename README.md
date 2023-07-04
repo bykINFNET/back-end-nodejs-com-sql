@@ -1,7 +1,7 @@
 # back-end-nodejs-com-sql
 Projeto da disciplina Back-End Node.JS com SQL do curso Desenvolvimento Full Stack (Infnet)
 
-Exemplo para popular a tabela de Curso (MariaDB)
+## Exemplo para popular a tabela de Curso (MariaDB)
 
 insert into curso (nameCurso, description, startDate, maxParticipants, enrolledParticipants, createdAt, updatedAt)
 values 
